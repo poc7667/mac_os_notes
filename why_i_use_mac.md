@@ -51,7 +51,7 @@ Macbook 就是結合了
 
 可能我 Ruby 碰的比較多，深深有感在 Windows 上開發真是要我的命。
 	
-PS: Windows 真的是個寫的很爛的系統，拿Mac的硬體去跑 Windows 真的是又慢又喘又耗電。 Macbook 乍看之下硬體很差，但是 Macbook pro 結合了 Linux 骨子的 OSX 真是完美，跑的又快又穩定又方便。
+PS: Windows 真的是個寫的很爛的系統，拿Mac的硬體去跑 Windows 真的是又慢又喘又耗電。 Macbook 乍看之下硬體很差，但是 Macbook pro 結合了 BSD 骨子的 OSX 真是完美，跑的又快又穩定又方便。
 
 ## 哪些情形下我用 Mac 覺得很方便
 
