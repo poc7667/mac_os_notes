@@ -1,6 +1,6 @@
 # Why I use Mac
 
-## 以前對 Macbook 的第一印象
+## First impression of Macbook
 
 在接觸 Macbook 之前， 只覺得是一個五萬元的筆電
 
@@ -45,19 +45,21 @@ Macbook 就是結合了
 		* 沒有 oh-my-zsh 搭配 git plugin ，在用 git 控管專案下，操控任何動作真的很麻煩
 		* 大推 Mac 上 Gittower  (用過會懷念、不用會想念)
 	* Vim 無敵強大的 editor, 很多 plugin 也是
-	* 很多時候想在 terminal 就在
+	* 很多時候在 terminal 快速切換到你常用的 workspace, 或者 grep 你想要的 code, find 你要的檔案, 開發 Rails 專案搭配 RailsVim 快速秒切到你要的 controller, view, model file.
 
 如果你在開發上是 Web Service 居多,也是 Script language的愛好者
 
 你會發現你在看 youtube 上面在 Conference 上面的 hacker 幾乎不會有人用 Windows notebook 
 
-	Why ?	 潮阿～好把妹阿！X 問這麼多幹啥
+	Why ?	 鄉民: 就潮啊，好把妹阿！X 問這麼多幹啥..
 
-最大一個重點還是剛剛我說的，開發環境太方便了。
+我覺得最大一個重點還是剛剛我說的，開發環境太方便了。
 
 不用再去灌一個 VM 再灌 Ubuntu/Cent OS 再來去跑克難的虛擬環境，
 
 又不是窮學生要吃泡麵度日，時間是青春、是金錢，很寶貴的。
+
+	假設一天用Mac一天替你省下15分鐘，一年賺到 90 小時，時薪三百，用一年就是省兩萬七，加上省下吃高血壓的藥 (划算！！而且以我個人的case 一天絕對不只省下我15分鐘)
 
 正因為開發環境太方便，所以在這個生態圈的developer 都用這樣的環境下去開發，
 
@@ -93,3 +95,11 @@ Macbook 就是結合了
 	 
 	 
 * Coding 環境就不需要我再說了。
+
+# Notice
+
+* 我剛開始接觸 Macbook 也是很不適應， Windows 上面有一些 trick 以及習慣的操作方式都難以轉換過來，真正開始將 Mac 融入到我的工作也是近一年的事情。(接下來有機會我會介紹我透過哪些方式，加速我工作上的效率)
+* 他是一個學習曲線相對高的 OS (特別是我們都是被 Windows OS 沾粘十幾年的使用者，一時之間轉換需要時間適應), 如果你有機會熟悉 一些簡單的 shell script, 那就是如虎添翼
+
+
+
