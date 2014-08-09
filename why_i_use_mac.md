@@ -68,7 +68,7 @@ Macbook 就是結合了
 可能我 Ruby on Rails 碰的比較多，在這個圈圈不會有傻子真的想在 Windows 上開發
 	
 * OS: Windows 真的是個寫的很爛的系統，拿Mac的硬體去跑 Windows 真的是又慢又喘又耗電。 Macbook 乍看之下硬體很差，但是 Macbook pro 結合了 BSD 骨子的 OSX 真是完美，不曉得是否跟蘋果公司軟硬體都一條龍式的設計有所關連，單看硬體零件都不是最優，但是整體系統使用體驗就是好上一個檔次。 By the way, 新一代 Macbook DISK IO throughtput 性能應該可以打趴市面上絕大部分看的到的 notebook 與 PC ![image](http://rack.3.mshcdn.com/media/ZgkyMDEzLzExLzExLzA5L1NjcmVlblNob3QyLmU1OGQ0LnBuZwpwCXRodW1iCTEyMDB4OTYwMD4/f039d89f/dc0/Screen-Shot-2013-11-11-at-11.54.35-AM-594x640.png) 
-* [上圖原文出處](http://www.everymac.com/systems/apple/macbook_pro/macbook-pro-retina-display-faq/macbook-pro-retina-display-late-2013-performance-benchmarks.html)
+* [上圖原文出處](http://mashable.com/2013/11/11/15-inch-mabook-pro-retina-review/)
 
 ## 哪些情形下我用 Mac 覺得很方便
 
