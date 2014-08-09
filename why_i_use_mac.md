@@ -21,6 +21,7 @@
 * 你是一個 .NET Framework 的開發者
 * 你玩的電腦遊戲只能在 Windows 上面跑
 
+
 ## 以設計師角度
 
 最好用的軟體都在Mac上面阿，你不用它，難道你是異類嗎？
@@ -40,7 +41,7 @@ Macbook 就是結合了
 	* 腦殘的 Windows編碼問題 CP950, xxx, xxx 
 		* 平常沒問題，碰到那就髒話罵不停。
 	* 莫名其妙的檔案路徑
-	* 難用到死的 Git tool (Windows下面的 Git 工具真的是一堆垃圾
+	* 難用到死的 Git tool (Windows下面的 Git 工具真的是一堆垃圾）
 		* 沒有 oh-my-zsh 搭配 git plugin ，在用 git 控管專案下，操控任何動作真的很麻煩
 		* 大推 Mac 上 Gittower  (用過會懷念、不用會想念)
 	* Vim 無敵強大的 editor, 很多 plugin 也是
@@ -66,7 +67,8 @@ Macbook 就是結合了
 
 可能我 Ruby on Rails 碰的比較多，在這個圈圈不會有傻子真的想在 Windows 上開發
 	
-* PS: Windows 真的是個寫的很爛的系統，拿Mac的硬體去跑 Windows 真的是又慢又喘又耗電。 Macbook 乍看之下硬體很差，但是 Macbook pro 結合了 BSD 骨子的 OSX 真是完美，跑的又快又穩定又方便。
+* OS: Windows 真的是個寫的很爛的系統，拿Mac的硬體去跑 Windows 真的是又慢又喘又耗電。 Macbook 乍看之下硬體很差，但是 Macbook pro 結合了 BSD 骨子的 OSX 真是完美，不曉得是否跟蘋果公司軟硬體都一條龍式的設計有所關連，單看硬體零件都不是最優，但是整體系統使用體驗就是好上一個檔次。 By the way, 新一代 Macbook DISK IO throughtput 性能應該可以打趴市面上絕大部分看的到的 notebook 與 PC ![image](http://rack.3.mshcdn.com/media/ZgkyMDEzLzExLzExLzA5L1NjcmVlblNob3QyLmU1OGQ0LnBuZwpwCXRodW1iCTEyMDB4OTYwMD4/f039d89f/dc0/Screen-Shot-2013-11-11-at-11.54.35-AM-594x640.png) 
+* [上圖原文出處](http://www.everymac.com/systems/apple/macbook_pro/macbook-pro-retina-display-faq/macbook-pro-retina-display-late-2013-performance-benchmarks.html)
 
 ## 哪些情形下我用 Mac 覺得很方便
 
@@ -76,8 +78,18 @@ Macbook 就是結合了
 * 我喜歡攝影拍照，但相機檔案 size 都很大(三千多萬畫素相機的宿命)，我寫一個簡單 script 自動幫我把旅行每次拍的幾百張照片，開好它該去的分類資料夾，大檔就先幫我額外 resize 成比較小的檔案，提供我之後瀏覽刪除篩選照片用(瀏覽起來又快又好刪除)			
 * 一天接觸電腦的時間很多，非常多，能用 shortcut 絕對不用滑鼠拖拉。熱鍵記熟絕對是滑鼠速度的 3~10倍 。 Mac 軟體的 shourtcut 絕大部分都 follow 一定 convention, 你不用記一堆太過於混亂的 shortcut (我就是在說 Windows)
 * Touchpad ，具有多工手勢以及極致的實體觸碰材料 
-	* 有人說 Windows 筆電也有觸碰板，我只想說`藍寶堅尼`跟`中國的吉利汽車`都是四個輪子，它們也是汽車，你如果問賣車的他們有什麼差別，那真的很傷人。
+	* 有人說 Windows 筆電也有觸碰板，我只想說`義大利藍寶堅尼`跟`中國吉利汽車`都是四個輪子，它們也是汽車，你如果問賣車的他們有什麼差別，那真的很傷人，特別是今天這台藍寶堅尼才賣你台幣100萬的價格，中國吉利汽車一樣賣50萬，你怎麼能不買!?
 * 我的時間很寶貴，不要浪費我時間在無腦的難用操作介面、或者 Buggy 的環境。
 	* eg: 搞了半天，原來是在 Windows 上環境的問題
 * Retina 視網膜螢幕，用過就回不去了，所以沒事絕對不要用，因為用了你一定回不去。
+* Time Machine 
+		
+		Mac 的 time machine 也是一絕，我在之前那台 2011 air 手動花很多時間 build 的一些麻煩 open source tool, 跟一堆設定環境 config files, ...。後來買新 Mac後，就幾乎完整無痛的把所有環境(任何手動build過的東西、裝過的app、以及app設定) 轉移到 新mac上，雖然好像本來就應該很簡單，但是這在windows上面，根本就 哼哼 呵呵 ，簡單的東西也弄個跟XX一樣麻煩
+		
+		Time Machine 可以備份你很多時間點系統上所有的檔案狀態，雖然我還沒有真正'需要'使用過就是。
+* 拒絕開關機很花時間的痛苦回憶
+
+		 Windows 精美的開關機設計、自動 Update 設計，有時候開了半小時還沒完成開機，關機有時候也超過10分鐘。應該是很多人的共同回憶 XDD
+	 
+	 
 * Coding 環境就不需要我再說了。
