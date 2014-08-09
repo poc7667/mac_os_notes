@@ -24,7 +24,7 @@
 
 ## 以設計師角度
 
-最好用的軟體都在Mac上面，請於的請專業來補充
+最好用的軟體幾乎都在 Mac 上面，其餘的請專業人士來補充
 
 ## 以 Programmer 的角度
 
@@ -58,7 +58,11 @@ Macbook 就是結合了
 
 又不是窮學生要吃泡麵度日，時間是青春、是金錢，很寶貴的。
 
-	假設一天用Mac一天替你省下15分鐘，一年賺到 90 小時，時薪三百，用一年就是省兩萬七，加上省下吃高血壓的藥 (划算！！而且以我個人的case 一天絕對不只省下我15分鐘)
+	假設一天用Mac一天替你省下15分鐘，一年賺到 90 小時，時薪三百
+	
+	用一年就是省兩萬七，加上省下吃高血壓的藥 
+	
+	相當划算！！而且以我個人的case 一天絕對不只省下我15分鐘
 
 正因為開發環境太方便，所以在這個生態圈的developer 都用這樣的環境下去開發，你在使用相關的 tool, gem,library, framework, 
 
@@ -67,7 +71,7 @@ Macbook 就是結合了
 可能我 Ruby on Rails 碰的比較多，在這個圈圈不會有傻子真的想在 Windows 上開發
 	
 * OS: Windows 真的是個寫的很爛的系統，拿Mac的硬體去跑 Windows 真的是又慢又喘又耗電。 Macbook 乍看之下硬體很差，但是 Macbook pro 結合了 BSD 骨子的 OSX 真是完美，不曉得是否跟蘋果公司軟硬體都一條龍式的設計有所關連，單看硬體零件都不是最優，但是整體系統使用體驗就是好上一個檔次。 By the way, 新一代 Macbook DISK IO throughtput 性能應該可以打趴市面上絕大部分看的到的 notebook 與 PC ![image](http://rack.3.mshcdn.com/media/ZgkyMDEzLzExLzExLzA5L1NjcmVlblNob3QyLmU1OGQ0LnBuZwpwCXRodW1iCTEyMDB4OTYwMD4/f039d89f/dc0/Screen-Shot-2013-11-11-at-11.54.35-AM-594x640.png) 
-* [上圖原文出處](http://mashable.com/2013/11/11/15-inch-mabook-pro-retina-review/)
+* [圖片出處](http://mashable.com/2013/11/11/15-inch-mabook-pro-retina-review/)
 
 ## 哪些情形下我用 Mac 覺得很方便
 
@@ -96,7 +100,10 @@ Macbook 就是結合了
 # 注意事項
 
 * 我剛開始接觸 Macbook 也是很不適應， Windows 上面有一些 trick 以及習慣的操作方式都難以轉換過來，真正開始將 Mac 融入到我的工作也是近一年的事情。(接下來有機會我會介紹我透過哪些方式，加速我工作上的效率)
-* 他是一個學習曲線相對高的 OS (特別是我們都是被 Windows OS 沾粘十幾年的使用者，一時之間轉換需要時間適應), 如果你有機會熟悉 一些簡單的 shell script, 那就是如虎添翼
+* 如果你是一個資工系學生，嘴巴攘攘的要學好 Linux 操作、跟熟悉 Linux 環境，你就趕快換 Mac 
+* 如果要用的精，它是一個學習曲線相對高的 OS (特別是我們都是被 Windows OS 沾粘十幾年的使用者，一時之間轉換需要時間適應), 如果你有機會熟悉 一些簡單的 shell script, 那就是如虎添翼。
 
+
+# 最後，我恨我不早點出社會賺錢，當年不聽勸，早點用 Mac ， M$ Windows 還我浪費在你身上的青春。
 
 
